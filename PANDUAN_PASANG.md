@@ -45,5 +45,5 @@ Kalau sertifikat berupa PDF, kartunya menampilkan gambar halaman pertama (bukan 
 Paper dan sertifikat penulis SMART ada di `public/papers/` (smart-paper.pdf, smart-sertifikat.pdf). Tombolnya muncul di kartu publikasi dan membuka preview layar penuh. Untuk menambah file ke publikasi lain, tambahkan daftar `files` di bagian `publications` pada `src/data/content.js` dan taruh filenya di `public/papers/`.
 
 ## Urutan galeri proyek dan sampul PDF
-Slide galeri diurutkan menurut nama file, jadi beri awalan angka: 01-..., 02-..., 03-... (contoh SIRIMBY: 01-manual-book.pdf menjadi slide pertama).
-Untuk slide PDF, gambar sampulnya dibuat dengan nama yang sama ditambah `-thumb`, contoh `01-manual-book-thumb.jpg`. File `-thumb` tidak dihitung sebagai slide sendiri.
+Slide galeri diurutkan menurut nama file, jadi beri awalan angka: 01-..., 02-..., 03-... (contoh SIRIMBY: 03-manual-book.pdf menjadi slide ketiga).
+Untuk slide PDF, gambar sampulnya dibuat dengan nama yang sama ditambah `-thumb`, contoh `03-manual-book-thumb.jpg`. File `-thumb` tidak dihitung sebagai slide sendiri.

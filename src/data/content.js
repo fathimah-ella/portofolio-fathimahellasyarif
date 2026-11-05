@@ -273,15 +273,15 @@ export const projects = [
     emoji: `💝`,
     colors: [`#14c2b0`, `#4361ee`],
     title: { id: `Dashboard Donasi SobatBerbagi.com`, en: `SobatBerbagi.com Donation Dashboard` },
-    meta: { id: `Magang Lazismu Banyumas · Jan sampai Feb 2025`, en: `Lazismu Banyumas internship · Jan to Feb 2025` },
+    meta: { id: `Magang Lazismu Banyumas · Jan sampai Feb 2025 · dilanjutkan dengan data hingga Mei 2025`, en: `Lazismu Banyumas internship · Jan to Feb 2025 · continued with data through May 2025` },
     summary: {
       id: `Tim fundraising belum punya gambaran jelas tentang donatur dan kinerja campaign. Saya membersihkan data donasi dari dua sumber, membangun dashboard interaktif, dan menyampaikan rekomendasi yang akhirnya dijalankan di lapangan.`,
       en: `The fundraising team had no clear picture of its donors or campaign performance. I cleaned donation data from two sources, built an interactive dashboard, and presented recommendations that were later carried out in the field.`,
     },
     points: [
       {
-        id: `Membersihkan 833 transaksi dari 263 donatur pada 25 campaign aktif (Rp264 juta) dari sumber QRIS dan manual dengan Pandas.`,
-        en: `Cleaned 833 transactions from 263 donors across 25 active campaigns (IDR 264 million) from QRIS and manual sources using Pandas.`,
+        id: `Membersihkan 833 transaksi (Des 2023 sampai Mei 2025) dari 263 donatur pada 25 campaign (Rp264 juta) dari sumber QRIS dan manual dengan Pandas. Data setelah masa magang diambil atas izin Lazismu.`,
+        en: `Cleaned 833 transactions (Dec 2023 to May 2025) from 263 donors across 25 campaigns (IDR 264 million) from QRIS and manual sources using Pandas. Data after the internship period was obtained with Lazismu's permission.`,
       },
       {
         id: `Dashboard Streamlit 6 tab dengan segmentasi donatur ke 4 tier (Premium, Gold, Silver, Bronze) dan rekomendasi otomatis.`,
@@ -294,6 +294,10 @@ export const projects = [
       {
         id: `Rekomendasi saya diterapkan menjadi program "Jumat Berkah": bagi-bagi minuman sambil mengenalkan SobatBerbagi.com dan menggalang donasi.`,
         en: `My recommendation became the "Jumat Berkah" outreach program: handing out drinks while introducing SobatBerbagi.com and collecting donations.`,
+      },
+      {
+        id: `Dashboard Power BI untuk mata kuliah Visualisasi Data dengan data hingga Feb 2025: Rp233 juta dari 443 transaksi dan 133 donatur.`,
+        en: `Power BI dashboard for the Data Visualization course using data through Feb 2025: IDR 233 million from 443 transactions and 133 donors.`,
       },
     ],
     tags: [`Python`, `Pandas`, `Streamlit`, `Plotly`, `Power BI`],
@@ -472,8 +476,8 @@ export const experience = [
     date: { id: `Jan - Feb 2025`, en: `Jan - Feb 2025` },
     points: [
       {
-        id: `Membersihkan dan menganalisis 833 transaksi donasi (Rp264 juta), lalu membangun dashboard Streamlit 6 tab untuk memantau campaign.`,
-        en: `Cleaned and analyzed 833 donation transactions (IDR 264 million), then built a six-tab Streamlit dashboard to monitor campaigns.`,
+        id: `Membersihkan dan menganalisis 833 transaksi donasi (Rp264 juta, data hingga Mei 2025 atas izin Lazismu), lalu membangun dashboard Streamlit 6 tab untuk memantau campaign.`,
+        en: `Cleaned and analyzed 833 donation transactions (IDR 264 million, data through May 2025 with Lazismu's permission), then built a six-tab Streamlit dashboard to monitor campaigns.`,
       },
       {
         id: `Menemukan dominasi QRIS (70,5% transaksi) dan pola Pareto donatur sebagai dasar strategi retensi.`,

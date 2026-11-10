@@ -310,8 +310,8 @@ export const projects = [
     id: `sirimby`,
     title: { id: `SIRIMBY: ERP Odoo untuk Rantai Pasok Yogurt`, en: `SIRIMBY: Odoo ERP for a Yogurt Supply Chain` },
     meta: {
-      id: `Capstone Design Project · Kelompok Peternak Langgeng Sejahtera, Banyumas · 2024 · HKI`,
-      en: `Capstone Design Project · Langgeng Sejahtera dairy farmers' group, Banyumas · 2024 · Copyright (HKI)`,
+      id: `Capstone Design Project · Kelompok Peternak Langgeng Sejahtera, Banyumas · 2025 · HKI`,
+      en: `Capstone Design Project · Langgeng Sejahtera dairy farmers' group, Banyumas · 2025 · Copyright (HKI)`,
     },
     summary: {
       id: `Kelompok peternak beranggota 20 orang dengan produksi sekitar 2.400 liter susu per bulan menjual seluruhnya sebagai susu mentah ke satu pengepul (Rp7.400 per liter), dengan pencatatan manual. Tim capstone kami membangun SIRIMBY di atas Odoo Community untuk mendukung usaha baru mereka: mengolah susu menjadi yogurt. Peran saya: Analyst.`,

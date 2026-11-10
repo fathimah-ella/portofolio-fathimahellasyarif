@@ -302,7 +302,6 @@ export const projects = [
     ],
     tags: [`Python`, `Pandas`, `Streamlit`, `Plotly`, `Power BI`],
     links: [
-      { label: { id: `Dashboard Streamlit`, en: `Streamlit dashboard` }, href: `https://dashboard-donation-lazismu-banyumas.streamlit.app/` },
       { label: { id: `Dashboard Power BI`, en: `Power BI dashboard` }, href: `` },
       { label: { id: `Kode`, en: `Code` }, href: `` },
     ],
